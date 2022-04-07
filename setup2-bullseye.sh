@@ -16,5 +16,5 @@ sudo ldconfig
 
 # clean up
 cd ~
-rm tensorflow.zip
+#rm tensorflow.zip
 
