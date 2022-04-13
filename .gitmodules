@@ -1,6 +1,6 @@
 [submodule "TensorFlow_Lite_Pose_RPi_64-bits"]
 	path = TensorFlow_Lite_Pose_RPi_64-bits
-	url = git@github.com:n1ckfg/TensorFlow_Lite_Pose_RPi_64-bits
+	url = https://github.com/n1ckfg/TensorFlow_Lite_Pose_RPi_64-bits
 [submodule "TensorFlow_Lite_Pose_RPi_32-bits"]
 	path = TensorFlow_Lite_Pose_RPi_32-bits
-	url = git@github.com:n1ckfg/TensorFlow_Lite_Pose_RPi_32-bits
+	url = https://github.com/n1ckfg/TensorFlow_Lite_Pose_RPi_32-bits
